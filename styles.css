@@ -213,9 +213,7 @@ nav {
 .fixed-nav .links a:hover {
   color: var(--clr-secondary);
 }
-/* .fixed-nav .links-container {
-  height: auto !important;
-} */
+
 .nav-header {
   display: flex;
   align-items: center;
@@ -352,7 +350,7 @@ footer p {
   margin-bottom: 0;
 }
 
-.top-link {
+.top-link { 
   font-size: 1.25rem;
   position: fixed;
   bottom: 3rem;
